@@ -1,0 +1,2 @@
+# MAGNN_review
+ MAGNN_Multi_Scale_Adaptive_Graph_Neural_Network_for_Multivariate_Time_Series_Forecasting_review
